@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARandomFrenchDev
-- 👀 I’m interested in Javascript frameworks
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on deep learning 
-- 📫 How to reach me : @RayanJensked
+- 👀 I’m interested in /
+- 🌱 I’m currently learning who knows what
+- 💞️ I’m looking to collaborate on /
+- 📫 How to reach me : /
 
 <!---
 ARandomFrenchDev/ARandomFrenchDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
