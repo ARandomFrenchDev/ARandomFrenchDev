@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARandomFrenchDev
-- 👀 I’m interested in /
-- 🌱 I’m currently learning who knows what
-- 💞️ I’m looking to collaborate on /
-- 📫 How to reach me : /
+- 👀 I’m interested in reinforcment learning using a 3D environment
+- 🌱 I’m currently relearning the basis of ML !
+- 💞️ I’m looking to collaborate on Unity projects using ML-Agents
+- 📫 How to reach me : arandomfrenchdev@gmail.com
 
 <!---
 ARandomFrenchDev/ARandomFrenchDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
